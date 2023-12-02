@@ -1,0 +1,401 @@
+{
+	"books": [
+		{
+			"name": "Hary Potter",
+			"slug": "hary-potter",
+			"author": "J. K. Rowling",
+			"categories": "Tiểu thuyết, Truyện dài tập, Truyện hành động",
+			"description": "Harry Potter là một loạt tiểu thuyết huyền bí gồm bảy phần của nhà văn Anh Quốc J. K. Rowling. Bộ truyện kể về những cuộc phiêu lưu phù thủy của cậu bé Harry Potter cùng hai người bạn thân là Ron Weasley và Hermione Granger, lấy bối cảnh tại Trường Phù thủy và Pháp sư Hogwarts ở nước Anh...",
+			"isFeatured": true,
+			"forRent": true,
+			"releaseDate": "30-6-1997",
+			"quantity": 30,
+			"discount": 10,
+			"regularPrice": 200000,
+			"rentingPrice": 25000,
+			"createdAt": "19-11-2023",
+			"status": true
+		},
+		{
+			"name": "The Lord of the Rings",
+			"slug": "the-lord-of-the-rings",
+			"author": "J.R.R. Tolkien alibaba",
+			"categories": "Tiểu thuyết, Truyện ngắn, Truyện dài tập",
+			"description": "Harry Potter là một loạt tiểu thuyết huyền bí gồm bảy phần của nhà văn Anh Quốc J. K. Rowling. Bộ truyện kể về những cuộc phiêu lưu phù thủy của cậu bé Harry Potter cùng hai người bạn thân là Ron Weasley và Hermione Granger, lấy bối cảnh tại Trường Phù thủy và Pháp sư Hogwarts ở nước Anh...",
+			"isFeatured": true,
+			"forRent": true,
+			"releaseDate": "29-7-1954",
+			"quantity": 25,
+			"discount": 0,
+			"regularPrice": 250000,
+			"rentingPrice": 30000,
+			"createdAt": "19-11-2023",
+			"status": true
+		},
+		{
+			"name": "To Kill a Mockingbird",
+			"slug": "to-kill-a-mockingbird",
+			"author": "Harper Lee",
+			"categories": "Tiểu thuyết",
+			"description": "Harry Potter là một loạt tiểu thuyết huyền bí gồm bảy phần của nhà văn Anh Quốc J. K. Rowling. Bộ truyện kể về những cuộc phiêu lưu phù thủy của cậu bé Harry Potter cùng hai người bạn thân là Ron Weasley và Hermione Granger, lấy bối cảnh tại Trường Phù thủy và Pháp sư Hogwarts ở nước Anh...",
+			"isFeatured": false,
+			"forRent": true,
+			"releaseDate": "11-7-1960",
+			"quantity": 20,
+			"discount": 0,
+			"regularPrice": 180000,
+			"rentingPrice": 22000,
+			"createdAt": "19-11-2023",
+			"status": true
+		},
+		{
+			"name": "1984",
+			"slug": "1984",
+			"author": "George Orwell",
+			"categories": "Tiểu thuyết",
+			"description": "Harry Potter là một loạt tiểu thuyết huyền bí gồm bảy phần của nhà văn Anh Quốc J. K. Rowling. Bộ truyện kể về những cuộc phiêu lưu phù thủy của cậu bé Harry Potter cùng hai người bạn thân là Ron Weasley và Hermione Granger, lấy bối cảnh tại Trường Phù thủy và Pháp sư Hogwarts ở nước Anh...",
+			"isFeatured": true,
+			"forRent": true,
+			"releaseDate": "8-6-1949",
+			"quantity": 15,
+			"discount": 12,
+			"regularPrice": 220000,
+			"rentingPrice": 27000,
+			"createdAt": "19-11-2023",
+			"status": true
+		},
+		{
+			"name": "The Great Gatsby",
+			"slug": "the-great-gatsby",
+			"author": "F. Scott Fitzgerald",
+			"categories": "Tiểu thuyết",
+			"description": "Harry Potter là một loạt tiểu thuyết huyền bí gồm bảy phần của nhà văn Anh Quốc J. K. Rowling. Bộ truyện kể về những cuộc phiêu lưu phù thủy của cậu bé Harry Potter cùng hai người bạn thân là Ron Weasley và Hermione Granger, lấy bối cảnh tại Trường Phù thủy và Pháp sư Hogwarts ở nước Anh...",
+			"isFeatured": false,
+			"forRent": true,
+			"releaseDate": "10-4-1925",
+			"quantity": 18,
+			"discount": 0,
+			"regularPrice": 190000,
+			"rentingPrice": 24000,
+			"createdAt": "19-11-2023",
+			"status": true
+		},
+		{
+			"name": "The Catcher in the Rye",
+			"slug": "the-catcher-in-the-rye",
+			"author": "J.D. Salinger",
+			"categories": "Tiểu thuyết",
+			"description": "Harry Potter là một loạt tiểu thuyết huyền bí gồm bảy phần của nhà văn Anh Quốc J. K. Rowling. Bộ truyện kể về những cuộc phiêu lưu phù thủy của cậu bé Harry Potter cùng hai người bạn thân là Ron Weasley và Hermione Granger, lấy bối cảnh tại Trường Phù thủy và Pháp sư Hogwarts ở nước Anh...",
+			"isFeatured": true,
+			"forRent": true,
+			"releaseDate": "16-7-1951",
+			"quantity": 22,
+			"discount": 10,
+			"regularPrice": 210000,
+			"rentingPrice": 26000,
+			"createdAt": "19-11-2023",
+			"status": true
+		},
+		{
+			"name": "The Hobbit",
+			"slug": "the-hobbit",
+			"author": "J.R.R. Tolkien",
+			"categories": "Tiểu thuyết",
+			"description": "Harry Potter là một loạt tiểu thuyết huyền bí gồm bảy phần của nhà văn Anh Quốc J. K. Rowling. Bộ truyện kể về những cuộc phiêu lưu phù thủy của cậu bé Harry Potter cùng hai người bạn thân là Ron Weasley và Hermione Granger, lấy bối cảnh tại Trường Phù thủy và Pháp sư Hogwarts ở nước Anh...",
+			"isFeatured": false,
+			"forRent": true,
+			"releaseDate": "21-9-1937",
+			"quantity": 28,
+			"discount": 15,
+			"regularPrice": 240000,
+			"rentingPrice": 29000,
+			"createdAt": "19-11-2023",
+			"status": true
+		},
+		{
+			"name": "Pride and Prejudice",
+			"slug": "pride-and-prejudice",
+			"author": "Jane Austen",
+			"categories": "Tiểu thuyết",
+			"description": "Harry Potter là một loạt tiểu thuyết huyền bí gồm bảy phần của nhà văn Anh Quốc J. K. Rowling. Bộ truyện kể về những cuộc phiêu lưu phù thủy của cậu bé Harry Potter cùng hai người bạn thân là Ron Weasley và Hermione Granger, lấy bối cảnh tại Trường Phù thủy và Pháp sư Hogwarts ở nước Anh...",
+			"isFeatured": true,
+			"forRent": true,
+			"releaseDate": "28-1-1813",
+			"quantity": 20,
+			"discount": 8,
+			"regularPrice": 180000,
+			"rentingPrice": 22000,
+			"createdAt": "19-11-2023",
+			"status": true
+		},
+		{
+			"name": "The Hunger Games",
+			"slug": "the-hunger-games",
+			"author": "Suzanne Collins",
+			"categories": "Tiểu thuyết",
+			"description": "Harry Potter là một loạt tiểu thuyết huyền bí gồm bảy phần của nhà văn Anh Quốc J. K. Rowling. Bộ truyện kể về những cuộc phiêu lưu phù thủy của cậu bé Harry Potter cùng hai người bạn thân là Ron Weasley và Hermione Granger, lấy bối cảnh tại Trường Phù thủy và Pháp sư Hogwarts ở nước Anh...",
+			"isFeatured": false,
+			"forRent": true,
+			"releaseDate": "14-9-2008",
+			"quantity": 25,
+			"discount": 12,
+			"regularPrice": 200000,
+			"rentingPrice": 25000,
+			"createdAt": "19-11-2023",
+			"status": true
+		},
+		{
+			"name": "The Chronicles of Narnia",
+			"slug": "the-chronicles-of-narnia",
+			"author": "C.S. Lewis",
+			"categories": "Tiểu thuyết",
+			"description": "Harry Potter là một loạt tiểu thuyết huyền bí gồm bảy phần của nhà văn Anh Quốc J. K. Rowling. Bộ truyện kể về những cuộc phiêu lưu phù thủy của cậu bé Harry Potter cùng hai người bạn thân là Ron Weasley và Hermione Granger, lấy bối cảnh tại Trường Phù thủy và Pháp sư Hogwarts ở nước Anh...",
+			"isFeatured": true,
+			"forRent": true,
+			"releaseDate": "16-10-1950",
+			"quantity": 18,
+			"discount": 10,
+			"regularPrice": 220000,
+			"rentingPrice": 27000,
+			"createdAt": "19-11-2023",
+			"status": true
+		},
+		{
+			"name": "Gió và mây",
+			"slug": "gio-va-may",
+			"author": "Nguyễn Trần Bích Ngọc",
+			"categories": "Tiểu thuyết",
+			"description": "Harry Potter là một loạt tiểu thuyết huyền bí gồm bảy phần của nhà văn Anh Quốc J. K. Rowling. Bộ truyện kể về những cuộc phiêu lưu phù thủy của cậu bé Harry Potter cùng hai người bạn thân là Ron Weasley và Hermione Granger, lấy bối cảnh tại Trường Phù thủy và Pháp sư Hogwarts ở nước Anh...",
+			"isFeatured": true,
+			"forRent": true,
+			"releaseDate": "16-10-1950",
+			"quantity": 18,
+			"discount": 10,
+			"regularPrice": 220000,
+			"rentingPrice": 27000,
+			"createdAt": "19-11-2023",
+			"status": true
+		},
+		{
+			"name": "Tết sắp đến rồi",
+			"slug": "tet-sap-den-roi",
+			"author": "Nguyễn Thế Vũ",
+			"categories": "Tiểu thuyết, Truyện ngắn, Truyện tranh",
+			"description": "Tớ chỉ muốn nói là tết sắp đến rồi",
+			"isFeatured": true,
+			"forRent": true,
+			"releaseDate": "01-12-2023",
+			"quantity": 10,
+			"discount": 10,
+			"regularPrice": 50000,
+			"sellingPrice": 45000,
+			"rentingPrice": 10000,
+			"createdAt": "01-12-2023",
+			"status": true
+		},
+		{
+			"name": "Tết là Tết",
+			"slug": "tet-la-tet",
+			"author": "Nguyễn Thế Vũ",
+			"categories": "Truyện ngắn, Đời sống",
+			"description": "Tớ chỉ muốn nói là Tết sắp dến rồi",
+			"isFeatured": true,
+			"forRent": true,
+			"releaseDate": "02-12-2023",
+			"quantity": 10,
+			"discount": 0,
+			"regularPrice": 100000,
+			"sellingPrice": 100000,
+			"rentingPrice": 10000,
+			"createdAt": "02-12-2023",
+			"status": true
+		}
+	],
+	"users": [
+		{
+			"name": "Admin",
+			"slug": "admin",
+			"password": "000000",
+			"role": 0,
+			"tel": "",
+			"email": "admin@gmail.com",
+			"CICNumber": "",
+			"status": true
+		},
+		{
+			"name": "Seller",
+			"slug": "seller",
+			"password": "000000",
+			"role": 1,
+			"tel": "",
+			"email": "seller@gmail.com",
+			"CICNumber": "",
+			"status": true
+		},
+		{
+			"name": "Nguyễn Văn Đức",
+			"slug": "nguyen-van-duc",
+			"password": "000000",
+			"role": 2,
+			"tel": "0387269894",
+			"email": "customer@gmail.com",
+			"CICNumber": "",
+			"status": true
+		},
+		{
+			"name": "Customer2",
+			"slug": "customer",
+			"password": "000000",
+			"role": 2,
+			"tel": "0385736524",
+			"email": "customer@gmail.com",
+			"CICNumber": "",
+			"status": true
+		},
+		{
+			"name": "Đinh Thị Lam Anh",
+			"slug": "dinh-thi-lam-anh",
+			"password": "000000",
+			"role": 2,
+			"tel": "0976534252",
+			"email": "customer@gmail.com",
+			"CICNumber": "",
+			"status": true
+		}
+	],
+	"categories": [
+		{
+			"name": "Tiểu thuyết",
+			"status": true
+		},
+		{
+			"name": "Truyện ngắn",
+			"status": true
+		},
+		{
+			"name": "Truyện tranh",
+			"status": true
+		},
+		{
+			"name": "Trinh thám",
+			"status": true
+		},
+		{
+			"name": "Truyện màu",
+			"status": true
+		},
+		{
+			"name": "Truyện dài tập",
+			"status": true
+		},
+		{
+			"name": "Khoa học viễn tưởng và huyền bí",
+			"status": true
+		},
+		{
+			"name": "Thơ",
+			"status": true
+		},
+		{
+			"name": "Khoa học",
+			"status": true
+		},
+		{
+			"name": "Thiên văn",
+			"status": true
+		},
+		{
+			"name": "Tự truyện và hồi ký",
+			"status": true
+		},
+		{
+			"name": "Ngoại ngữ",
+			"status": true
+		},
+		{
+			"name": "Tôn giáo và tâm linh",
+			"status": true
+		},
+		{
+			"name": "Nấu ăn",
+			"status": true
+		},
+		{
+			"name": "Lịch sử",
+			"status": true
+		},
+		{
+			"name": "Chính trị",
+			"status": true
+		},
+		{
+			"name": "Văn học",
+			"status": true
+		},
+		{
+			"name": "Đời sống",
+			"status": true
+		},
+		{
+			"name": "Đời sống",
+			"status": true
+		},
+		{
+			"name": "Toán học",
+			"status": true
+		},
+		{
+			"name": "Sách giáo khoa",
+			"status": true
+		},
+		{
+			"name": "Truyện hành động",
+			"status": true
+		}
+	],
+	"rented_books": [
+		{
+			"userTel": "0387269894",
+			"booksName": "Hary Potter, The Lord of the Rings",
+			"userName": "Nguyễn Văn Đức",
+			"totalPrice": 54000,
+			"dateEnd": "23:12:28 20-02-2022",
+			"createdAt": "23:12:28 02-03-2022",
+			"status": false
+		},
+		{
+			"userTel": "0387269894",
+			"booksName": "Hary Potter, The Lord of the Rings",
+			"userName": "Nguyễn Văn Đức",
+			"totalPrice": 54000,
+			"dateEnd": "23:12:28 20-02-2022",
+			"createdAt": "23:12:28 02-03-2022",
+			"status": false
+		},
+		{
+			"userTel": "0976534252",
+			"booksName": "Hary Potter, The Lord of the Rings",
+			"userName": "Đinh Thị Lam Anh",
+			"totalPrice": 54000,
+			"dateEnd": "23:12:28 20-02-2021",
+			"createdAt": "23:12:28 02-03-2021",
+			"status": false
+		}
+	],
+	"saled_books": [
+		{
+			"tel": "0364752421",
+			"userName": "Nguyễn Văn Đức",
+			"booksName": "Hary Potter:1, The Lord of the Rings:1",
+			"totalPrice": 540000,
+			"createdAt": "21:55:37 19-11-2023"
+		},
+		{
+			"tel": "0364752421",
+			"userName": "Nguyễn Văn Đức",
+			"booksName": "Hary Potter:1, The Lord of the Rings:1",
+			"totalPrice": 540000,
+			"createdAt": "11:15:26 18-11-2023"
+		}
+	]
+}
